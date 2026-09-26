@@ -1,5 +1,5 @@
 {
-  "version" : "V1.0",
+  "version" : "V1.1",
   "download_url" : "",
   "notes" : "• Added bulk ID import feature\\n• Redesigned UI for smoother navigation\\n• Fixed page loading lag issues"
 }
