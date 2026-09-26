@@ -1,9 +1,8 @@
 {
   "version" : "V1.1",
   "download_url" : "",
-  "notes" : [
+  "notes" : 
     "• Added bulk ID import feature",
     "• Redesigned UI for smoother navigation",
     "• Fixed page loading lag issues"
-  ]
 }
